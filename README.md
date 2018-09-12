@@ -11,13 +11,15 @@ Für die Umsetzung: Pfadfinder\*innen // Ranger\*Rover
 "Lernen der Welt" ist auch schon für einen jüngere Zielgruppe geeignet.
 
 ## Materialbedarf
-+ Sperrholzplatt A3
++ Sperrholzplatte A3
++ Ausdruck Weltkarte in A3 [Vorlagen](https://github.com/pediehl/travel_the_world_electric_paint/appendix/)
 + Raspberry Pi
 + 1 Steckbrett
 + [Adafruit MPR121](https://learn.adafruit.com/mpr121-capacitive-touch-sensor-on-raspberry-pi-and-beaglebone-black) (Kapazitiver Sensor der 12 Kontakten verarbeiten kann) - Anleitung vom Hersteller: [Adafruit](https://learn.adafruit.com/mpr121-capacitive-touch-sensor-on-raspberry-pi-and-beaglebone-black)
 + LCD-Display mit I2C-Modul
 + Kabel
-+ leitende Farbe
++ leitende Farbe ([Tube von BareConductive](https://www.bareconductive.com/))
 + Rolle Schaltdraht (Querschnitt 0.2 mm&sup2;)
 
 ## Aufbau
+![](images/travel_the_world_i2c_Steckplatine.png)
