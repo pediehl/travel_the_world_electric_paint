@@ -20,13 +20,13 @@ Für die Umsetzung: Pfadfinder\*innen // Ranger\*Rover
 + Rolle Schaltdraht (Querschnitt 0.2 mm&sup2;)
 
 ## ChangeLog seit Scoutlab 2017
-01.11.2017: Eingabe der Zeitzone im Verhältnis zur aktuellen Uhrzeit für jede Stadt umgesetzt
-01.11.2017: Berechnung und Ausgabe der Uhrzeit umgesetzt
-20.03.2018: optimieren des Quell-Code
-20.03.2018: Umstellung auch LCD-Display auf I2C. Erweiterung um die passenden zwei Display Dateien (Treiber)
-20.03.2018: H:%M   %d.%m.%y, Ausgabe des Datums neben der Ortszeit, um auch den Datumswechsel bei der Ortszeit/Zeitzone deutlich zu machen.
-29.03.2018: Beheben des Schreibfehlers im Quelltext brasilien.wav konnte nicht gefunden werden.
-29.03.2018: Landeshymne stoppt automatisch, sobald eine andere Stadt ausgewählt wird. Jetzt schnelles Umschalten möglich.
++ 01.11.2017: Eingabe der Zeitzone im Verhältnis zur aktuellen Uhrzeit für jede Stadt umgesetzt
++ 01.11.2017: Berechnung und Ausgabe der Uhrzeit umgesetzt
++ 20.03.2018: optimieren des Quell-Code
++ 20.03.2018: Umstellung auch LCD-Display auf I2C. Erweiterung um die passenden zwei Display Dateien (Treiber)
++ 20.03.2018: H:%M   %d.%m.%y, Ausgabe des Datums neben der Ortszeit, um auch den Datumswechsel bei der Ortszeit/Zeitzone deutlich zu machen.
++ 29.03.2018: Beheben des Schreibfehlers im Quelltext brasilien.wav konnte nicht gefunden werden.
++ 29.03.2018: Landeshymne stoppt automatisch, sobald eine andere Stadt ausgewählt wird. Jetzt schnelles Umschalten möglich.
 
 ## Aufbau
 ![](images/travel_the_world_i2c_Steckplatine.png)
